@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 🤔 Desenvolvendo soluções de software mais eficientes;
-- 🎓 Estudando {Sistemas de Informação} na {Universidade Federal de Sergipe};
-- 🌱 Aprendendo mais sobre {Algoritmos e Estruturas de Dados}.
+- 🎓 Estudando Sistemas de Informação na Universidade Federal de Sergipe;
+- 🌱 Aprendendo mais sobre Algoritmos e Estruturas de Dados.
 
 ## Minhas Skills
 
